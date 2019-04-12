@@ -3,6 +3,16 @@ A project shift board made for a store to "swap" shifts. Based in ReactJS and Fi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Firebase
+This project utilizes firebase to connect and share information with other authorized users on the platform.
+Currently, users can take and post shifts by email and the information will be stored until an authorized individual clears the list of shifts. This email can be changed.
+
+# Updates:
+In the works: 
+ - user comments
+ - admin class that allows anyone with the admin status to clear shifts
+ - clearing shifts by name rather than email
+
 ## Available Scripts
 
 In the project directory, you can run:
