@@ -7,6 +7,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project utilizes firebase to connect and share information with other authorized users on the platform.
 Currently, users can take and post shifts by email and the information will be stored until an authorized individual clears the list of shifts. This email can be changed.
 
+# Frontend:
+ - ReactJS
+ - Bootstrap
+
+# Backend
+ - Firebase
+
 # Updates:
 In the works: 
  - user comments
