@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <div className="App bg-dark">
       <Navbar expand="md" className="fixed-top" style={{background: '#282c44'}}>
-        <Navbar.Brand className="text-success pointer" to={'/app'}>Publix 332 Shift Board</Navbar.Brand>
+        <Navbar.Brand className="text-success pointer" to={'/app'}>Company Shift Board</Navbar.Brand>
         <Navbar.Toggle className="bg-success" aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
@@ -36,7 +36,7 @@ class App extends Component {
         <main className="App-header bg-dark">
           <img src={require("../img/pub_logo.png")} className="App-logo" alt="logo" />
           <p>
-            Welcome to Publix 332 Shift Swap Board!
+            Welcome to Company Shift Swap Board!
           </p>
           <p>
             Check out available shifts or post your own to the board!
