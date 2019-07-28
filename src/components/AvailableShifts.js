@@ -25,7 +25,7 @@ class AvailableShifts extends Component {
       <div className="App bg-dark py-5">
 
       <Navbar expand="md" style={{background: '#282c44'}} className="fixed-top">
-        <Navbar.Brand><Link to={'/app'} className="text-white pointer">Publix 332 Shift Board</Link></Navbar.Brand>
+        <Navbar.Brand><Link to={'/app'} className="text-white pointer">Company Shift Board</Link></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
